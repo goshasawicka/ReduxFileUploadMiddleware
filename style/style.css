@@ -1,0 +1,12 @@
+.single-file{
+    margin-top:20px;
+    margin-left: 20px;
+    border: #cdcdcd medium solid;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+}
+.btn {
+    margin-left: 5px;
+}
